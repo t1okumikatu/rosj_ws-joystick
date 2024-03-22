@@ -1,0 +1,39 @@
+[1.628s] Invoking command in '/home/keime/rosj_ws/src/joy_translate': PYTHONPATH=/home/keime/rosj_ws/build/joy_translate/prefix_override:/home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/joy_translate build --build-base /home/keime/rosj_ws/build/joy_translate/build install --record /home/keime/rosj_ws/build/joy_translate/install.log --single-version-externally-managed
+[2.161s] running egg_info
+[2.162s] creating ../../build/joy_translate/joy_translate.egg-info
+[2.162s] writing ../../build/joy_translate/joy_translate.egg-info/PKG-INFO
+[2.163s] writing dependency_links to ../../build/joy_translate/joy_translate.egg-info/dependency_links.txt
+[2.163s] writing entry points to ../../build/joy_translate/joy_translate.egg-info/entry_points.txt
+[2.163s] writing requirements to ../../build/joy_translate/joy_translate.egg-info/requires.txt
+[2.164s] writing top-level names to ../../build/joy_translate/joy_translate.egg-info/top_level.txt
+[2.164s] writing manifest file '../../build/joy_translate/joy_translate.egg-info/SOURCES.txt'
+[2.168s] reading manifest file '../../build/joy_translate/joy_translate.egg-info/SOURCES.txt'
+[2.169s] writing manifest file '../../build/joy_translate/joy_translate.egg-info/SOURCES.txt'
+[2.169s] running build
+[2.170s] running build_py
+[2.170s] creating /home/keime/rosj_ws/build/joy_translate/build
+[2.170s] creating /home/keime/rosj_ws/build/joy_translate/build/lib
+[2.170s] creating /home/keime/rosj_ws/build/joy_translate/build/lib/joy_translate
+[2.171s] copying joy_translate/__init__.py -> /home/keime/rosj_ws/build/joy_translate/build/lib/joy_translate
+[2.171s] copying joy_translate/joy_translate_node.py -> /home/keime/rosj_ws/build/joy_translate/build/lib/joy_translate
+[2.171s] running install
+[2.172s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.172s]   warnings.warn(
+[2.172s] running install_lib
+[2.174s] creating /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate
+[2.174s] copying /home/keime/rosj_ws/build/joy_translate/build/lib/joy_translate/__init__.py -> /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate
+[2.174s] copying /home/keime/rosj_ws/build/joy_translate/build/lib/joy_translate/joy_translate_node.py -> /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate
+[2.175s] byte-compiling /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate/__init__.py to __init__.cpython-310.pyc
+[2.176s] byte-compiling /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate/joy_translate_node.py to joy_translate_node.cpython-310.pyc
+[2.177s] running install_data
+[2.178s] creating /home/keime/rosj_ws/install/joy_translate/share/ament_index
+[2.178s] creating /home/keime/rosj_ws/install/joy_translate/share/ament_index/resource_index
+[2.179s] creating /home/keime/rosj_ws/install/joy_translate/share/ament_index/resource_index/packages
+[2.179s] copying resource/joy_translate -> /home/keime/rosj_ws/install/joy_translate/share/ament_index/resource_index/packages
+[2.179s] copying package.xml -> /home/keime/rosj_ws/install/joy_translate/share/joy_translate
+[2.179s] running install_egg_info
+[2.182s] Copying ../../build/joy_translate/joy_translate.egg-info to /home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages/joy_translate-0.0.0-py3.10.egg-info
+[2.184s] running install_scripts
+[2.227s] Installing joy_translate_node script to /home/keime/rosj_ws/install/joy_translate/lib/joy_translate
+[2.227s] writing list of installed files to '/home/keime/rosj_ws/build/joy_translate/install.log'
+[2.283s] Invoked command in '/home/keime/rosj_ws/src/joy_translate' returned '0': PYTHONPATH=/home/keime/rosj_ws/build/joy_translate/prefix_override:/home/keime/rosj_ws/install/joy_translate/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/joy_translate build --build-base /home/keime/rosj_ws/build/joy_translate/build install --record /home/keime/rosj_ws/build/joy_translate/install.log --single-version-externally-managed
